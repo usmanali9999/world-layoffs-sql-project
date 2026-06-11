@@ -1,5 +1,5 @@
 ## 📌 Project Overview
-This repository contains a full end-to-end SQL case study focusing on global tech industry layoffs. The project is split into two major phases: **Data Cleaning** (building an optimized, anomaly-free staging environment) and **Exploratory Data Analysis (EDA)** (extracting actionable business metrics and macro-trends).
+This repository contains a full end-to-end SQL case study focusing on **Global tech industry layoffs**. The project is split into two major phases: **Data Cleaning** (building an optimized, anomaly-free staging environment) and **Exploratory Data Analysis (EDA)** (extracting actionable business metrics and macro-trends).
 
 ---
 
