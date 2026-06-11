@@ -6,7 +6,7 @@ This repository contains a full end-to-end SQL case study focusing on **Global t
 ## 📁 Repository Structure
 * `layoffs.csv`: Raw, unformatted source data loaded straight from Excel.
 * `layoffs_clean.csv`: The polished database output extracted post-cleaning.
-* `layoffs_analysis.sql`: Unified, step-by-Step production script containing the database schema and all queries.
+* `layoffs_data_cleaning_and_EDA.sql`: Unified, step-by-Step production script containing the database schema and all queries.
 
 ---
 
